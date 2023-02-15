@@ -1,0 +1,8 @@
+npm init -y
+npm install express mysql nodemon
+
+npm i bcrypt para encriptar los password
+
+npm i jsonwebtoken
+
+npm i cookie-parser
